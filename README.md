@@ -1,2 +1,0 @@
-# scrapy_challenge
-Rentola
